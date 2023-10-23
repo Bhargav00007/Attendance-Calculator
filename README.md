@@ -15,7 +15,7 @@ With the help of input1 & input2 we can bring the no. of days attend by the user
 and with the goal percentage we can bring the total no. of days
 Now by subtracting the current days from the goal days will bring the value we need more to reach the goal!
 
-Here i have taken goal days as 134, since most of the colleges semester has an average of 134 days init.
+Here i have taken goal days as 90, since most of the colleges semester has an average of 90 days init.
 
 # Technologies used:
 ->HTML
