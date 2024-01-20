@@ -1,7 +1,7 @@
 let go = document.getElementById('go');
 
 var a = 100;
-var b = 90;
+var b = 80;
 
 function val(){
 let input1 = document.getElementById('input1');
